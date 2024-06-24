@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "I am still dummy, lets learn web server!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "belsemb",
+  "license": "ISC"
+}
